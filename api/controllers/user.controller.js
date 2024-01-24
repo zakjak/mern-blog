@@ -1,3 +1,4 @@
-export const test = (req, res) => {
-    res.json({message: "Working"})
+
+export const signUp = async (req, res) => {
+    
 }
